@@ -4,12 +4,15 @@
 <a href='https://ko-fi.com/W7W8OHBQX' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 👩‍💻 Currently enhancing my skills for a junior front-end developer position.
+
 📚 Actively learning Angular and diving into the world of SEO.
+
 🚀 Seeking like-minded individuals for tech discussions and mutual motivation.
+
 ✉️ Feel free to reach out to me at:
-https://img.shields.io/discourse/users
 
 
+<img alt="Discourse users" src="https://img.shields.io/discourse/users">
 You can find a link to my Dribbble portfolio here: 
 https://dribbble.com/nobody99
 
