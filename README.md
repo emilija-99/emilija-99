@@ -3,9 +3,7 @@
 
 
 
-- 👩‍💻 Currently enhancing my skills for a junior front-end developer position.
-
-- 📚 Actively learning Angular and diving into the world of SEO.
+- 👩‍💻 Junior front-end developer
 
 - 🚀 Seeking like-minded individuals for tech discussions and mutual motivation.
 
