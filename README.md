@@ -1,9 +1,6 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+my+name+is+Emilija+.;I'm+here+to+pursue+my+dreams+come+true.)](https://git.io/typing-svg)
 
-![emilija-99's Stats](https://github-readme-stats.vercel.app/api?username=emilija-99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
 - 👩‍💻 Junior front-end developer
 
 - 🚀 Seeking like-minded individuals for tech discussions and mutual motivation.
