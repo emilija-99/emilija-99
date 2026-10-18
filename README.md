@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+my+name+is+Emilija+.;)](https://git.io/typing-svg)
+
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+my+name+is+Emilija+.;)](https://git.io/typing-svg)
 
 Front-end developer from a small town in Serbia. In my free time I dig into how things work underneath: low-level programming, Linux, home labs, code performance and software architecture.
 
